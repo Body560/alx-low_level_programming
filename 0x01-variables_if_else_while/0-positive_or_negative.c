@@ -1,5 +1,6 @@
-#include<stdlib.h>
-#include<time.h>
+#include <stdlib.h>
+#include <time.h>
+#include <stdio.h>
 /**
  * main - main if function
  * @max - this fun will be return random number
